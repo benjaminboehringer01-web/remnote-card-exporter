@@ -1,0 +1,1 @@
+# RemNote Card Exporter Plugin

@@ -1,9 +1,9 @@
 {
   "manifestVersion": 1,
-  "id": "plugin_template",
-  "name": "Plugin Template",
-  "author": "remnote",
-  "repoUrl": "",
+  "id": "remnote_swift_card_exporter",
+  "name": "RemNote Card Exporter",
+  "author": "benjaminboehringer01-web",
+  "repoUrl": "https://github.com/benjaminboehringer01-web/remnote-card-exporter",
   "version": {
     "major": 0,
     "minor": 0,
@@ -11,7 +11,7 @@
   },
   "theme": [],
   "enableOnMobile": false,
-  "description": "",
+  "description": "Exportiert Karten aus RemNote.",
   "requestNative": false,
   "requiredScopes": [
     {
